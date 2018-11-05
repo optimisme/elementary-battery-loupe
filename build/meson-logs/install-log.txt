@@ -1,5 +1,0 @@
-# List of files installed by Meson
-# Does not contain files installed by custom scripts.
-/usr/bin/com.github.optimisme.elementary-battery-loupe
-/usr/share/applications/com.github.optimisme.elementary-battery-loupe.desktop
-/usr/share/metainfo/com.github.optimisme.elementary-battery-loupe.appdata.xml
