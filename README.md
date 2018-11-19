@@ -18,7 +18,6 @@ Shows information about the health of your battery.
     ninja com.github.optimisme.elementary-battery-loupe-update-po
     sudo ninja install
 
-
 **Uninstall:**
 
     sudo ninja uninstall
