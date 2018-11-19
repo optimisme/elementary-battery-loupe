@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: com.github.optimisme.elementary-battery-loupe\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-05 19:37+0100\n"
+"POT-Creation-Date: 2018-11-14 23:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,22 +17,55 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/Application.vala:14
-msgid "Hello World 2b"
+#: src/Application.vala:80
+msgid "Error, battery not found"
 msgstr ""
 
-#: src/Application.vala:17
-msgid "Click me!"
+#: src/Application.vala:89
+msgid "Vendor"
 msgstr ""
 
-#: src/Application.vala:20
-msgid "Hello World 2!"
+#: src/Application.vala:90
+msgid "Model"
 msgstr ""
 
+#: src/Application.vala:91
+msgid "Serial"
+msgstr ""
+
+#: src/Application.vala:95
+msgid "Current charge"
+msgstr ""
+
+#: src/Application.vala:96
+msgid "Full charge capacity"
+msgstr ""
+
+#: src/Application.vala:97
+msgid "Design capacity"
+msgstr ""
+
+#: src/Application.vala:98
+msgid "Voltage"
+msgstr ""
+
+#: src/Application.vala:103
+msgid "Charge"
+msgstr ""
+
+#: src/Application.vala:110
+msgid "Capacity"
+msgstr ""
+
+#: src/Application.vala:116
 #: data/com.github.optimisme.elementary-battery-loupe.desktop.in:3
 #: data/com.github.optimisme.elementary-battery-loupe.desktop.in:4
 #: data/com.github.optimisme.elementary-battery-loupe.appdata.xml.in:6
 msgid "Battery Loupe"
+msgstr ""
+
+#: src/Application.vala:169 src/Application.vala:177 src/Application.vala:239
+msgid "Not available"
 msgstr ""
 
 #: data/com.github.optimisme.elementary-battery-loupe.desktop.in:5

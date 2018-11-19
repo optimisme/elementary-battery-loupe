@@ -1,4 +1,11 @@
-# Persual Battery App
+# Battery Loupe App
+
+### Read and examine your battery stats.
+
+Shows information about the health of your battery.
+
+![screenshot](Screenshot.png)
+
 **Build:** 
 
     meson build --prefix=/usr
